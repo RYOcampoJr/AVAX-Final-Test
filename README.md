@@ -25,11 +25,3 @@ To run entire application, create .env file for owner and user private keys and 
     - Deploys the contract on the Avalanche testnet using the deploy.js script
 3. `npx hardhat verify <contract_address> --network fuji`
     - Enables verification of contract on [Avalanche Fuji test network](https://testnet.snowtrace.io/)
-
-## Video Walkthrough
-
-Here's a video of me explaining my solution: [Video walkthrough](https://drive.google.com/file/d/1Ac-ai26FSMeDvaIk2G2EC_BMb0ywlepx/view?usp=sharing)
-
-## Author
-
-Charmaine Eunice Rabano
